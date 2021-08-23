@@ -1,0 +1,9 @@
+.container {
+  border: solid;
+  padding: 40px;
+  border-radius: 40px;
+}
+
+li {
+  list-style-type: none;
+}
